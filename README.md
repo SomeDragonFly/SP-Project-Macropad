@@ -2,7 +2,7 @@
 A project to create a DIY macropad for daily use
 
 Prototype 1:
-![Image](https://github.com/user-attachments/assets/ada07f90-92f4-4583-bcc8-d5f0dc344d69)
 
+![Image](https://github.com/user-attachments/assets/ce7c5139-177a-4f50-ae14-3e6be6958571)
 
 Handwired + No Solder Edition
